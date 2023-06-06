@@ -1,0 +1,51 @@
+.navbar{
+    position:fixed;
+    top:0;
+    width:100%;
+    background-color: white;
+}
+.navbar li{
+    display:inline-block;
+    padding:0px 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+.banner {
+    background-color: #241238;
+    color: white;
+    margin-top: 50px;
+    text-align:center;
+    padding: 100px 0;
+}
+#small-nezuko{
+    height:167.6px;
+    width: 117.4px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+.nezukker-section{
+    padding:20px 50px;
+}
+#Nezukker{
+    color:#241238;
+    font-size: 100px;
+}
+#neets ul{
+    list-style-type: none;
+}
+.avatar{
+    background-image: url(../images/Nezuko_anime_design.webp);
+    background-size: cover;
+    height:40px;
+    width:30px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.bold{
+    font-weight: 900;
+}
+a.orange{
+    color: #BE603D;
+}
